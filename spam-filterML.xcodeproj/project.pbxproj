@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		FEAB03561CCA796C00DD0734 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		FE5F2A0E1CCA7BE900F63AB5 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		FEF76EAD1CCA707500638725 /* spam-filterML */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "spam-filterML"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEF76EB01CCA707500638725 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -42,6 +42,7 @@
 		FEF76EA41CCA707500638725 = {
 			isa = PBXGroup;
 			children = (
+				FE5F2A0E1CCA7BE900F63AB5 /* LICENSE */,
 				FEF76EAF1CCA707500638725 /* spam-filterML */,
 				FEF76EAE1CCA707500638725 /* Products */,
 			);
@@ -58,7 +59,6 @@
 		FEF76EAF1CCA707500638725 /* spam-filterML */ = {
 			isa = PBXGroup;
 			children = (
-				FEAB03561CCA796C00DD0734 /* LICENSE */,
 				FEF76EB01CCA707500638725 /* main.cpp */,
 			);
 			path = "spam-filterML";
